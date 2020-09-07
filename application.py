@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 ####
 # Basic configuration - Update the following to match your environment
-SUBSCRIPTION_CALLBACK_URL = 'https://<app_name>.azurewebsites.net'
+SUBSCRIPTION_CALLBACK_URL = 'https://csmallwood-o365-middleware.azurewebsites.net'
 
 ####
 # Advanced Configuration
